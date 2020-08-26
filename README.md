@@ -1,4 +1,4 @@
-Usage
+My shortcut to controling song player by AHK script.
 
 ## Install AutoHotKey
 [AutoHotKey](https://www.autohotkey.com/)
