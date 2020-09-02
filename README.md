@@ -1,4 +1,4 @@
-My shortcut to controling media player by AHK script.
+My keyborad shortcuts for cocntroling media player.
 
 ## Install AutoHotKey
 [AutoHotKey](https://www.autohotkey.com/)
